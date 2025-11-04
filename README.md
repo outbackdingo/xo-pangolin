@@ -1,6 +1,8 @@
 
 Unofficial Pangolin Helm chart
 
+![Pangolin network in kubernetes](./docs/pangolin-net.png)
+
 ```bash
 git clone https://github.com/XpaceOff/xo-pangolin.git
 cd xo-pangolin
